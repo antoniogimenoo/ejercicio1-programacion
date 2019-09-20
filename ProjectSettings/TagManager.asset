@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - EscenarioFront
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EscenarioBack
+    uniqueID: 3270289041
+    locked: 0
+  - name: Dianas
+    uniqueID: 996676949
+    locked: 0
+  - name: Patos
+    uniqueID: 83395387
+    locked: 0
+  - name: EscenarioFront
+    uniqueID: 1698549701
+    locked: 1
+  - name: Arma
+    uniqueID: 559890971
+    locked: 0

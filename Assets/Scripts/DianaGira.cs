@@ -19,7 +19,7 @@ public class DianaGira : MonoBehaviour
         //Cuidado la mayusculas y minusculas
         EjecutarAnimacion();
         //Con Invoke retrasamos la funcion EjecutarAnimacion 2 segundos
-        Invoke("EjecutarAnimacion", Random.Range(0,6));
+        Invoke("EjecutarAnimacion", Random.Range(1,6));
     }
 
     //Tenemos que crear una funcion para poder invocarla
